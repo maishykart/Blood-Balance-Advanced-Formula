@@ -6,7 +6,7 @@ sections:
     title:
       text: |-
         Advanced Blood Balance
-        Formula
+        Formula 2024
       color: text-dark
       type: TitleBlock
     subtitle: ''
