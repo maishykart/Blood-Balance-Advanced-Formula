@@ -31,7 +31,7 @@ sections:
     actions:
       - label: BUY HERE
         altText: ''
-        url: /
+        url: 'https://www.wellbiotricks.com/order-belly-balance-au'
         showIcon: false
         icon: arrowRight
         iconPosition: right
