@@ -87,11 +87,120 @@ sections:
     subtitle: |-
       Who
       Made It?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Blood Balance Advanced Formula includes manufacturer information.
+      Nutrition Hacks, sold on the product page by
+
+      Raposo International Enterprises, Inc., claims to be the manufacturer.
+      Organic
+
+      coconut oil and other anti-inflammatory supplements are sold. Let us
+      examine
+
+      Blood Balance Advanced Formula's functions and how it works miraculously. 
+
+
+
+      Advanced Blood Balance Ingredients 
+
+
+
+      Compared to similar dietary supplements, Blood Balance Advanced Formula
+      has
+
+      less components. These substances may help keep blood levels healthy, so
+      let's
+
+      examine them scientifically to determine their complete advantages to the
+      body.
+
+
+      Powdered
+
+      White Mulberry Leaves are used to treat diabetes, high cholesterol, and
+      high
+
+      blood pressure. It also helps with the common cold, but there is no
+      scientific
+
+      proof. Since Rutin in mulberries boosts metabolism and aids weight loss,
+      it has
+
+      been introduced as an obesity treatment. 
+
+
+
+      Berberine
+
+      Extract — Used to treat diabetes, high cholesterol, and high blood
+      pressure.
+
+      Similar to the Mulberry, it heals burns and canker sores instead of colds.
+      This
+
+      extract may also improve liver function over time. More scientific
+      research is
+
+      needed to evaluate this extract's potential. 
+
+
+
+      Juniper
+
+      Berry - Treats GI issues like upset stomach, flatulence, heartburn,
+      bloating,
+
+      loss of appetite, parasites, and infections. Urinary tract infections and
+
+      kidney and bladder stones are treated with it. 
+
+
+
+      The
+
+      Bitter Melon, sometimes known as the bitter gourd, is a popular South and
+
+      Southeast Asian food with a bitter taste if improperly cooked. Only
+      because
+
+      it's blood-healthy do people consume this fruit. It reduces stomach and
+
+      intestinal issues and stabilises blood sugar. Cholesterol can also drop.
+
+      Although it's unpleasant, it's the best fruit for high blood value
+
+
+
+      Biotin
+
+      (Vitamin B7) is commonly used for skin, hair, and nails. It boosts
+      metabolism
+
+      and regenerates hair, skin, and nails, improving your appearance. 
+
+
+      Chromium is a mineral that can help regulate blood sugar levels. Mostly
+      used to
+
+      stabilise blood sugar in people undergoing steroids or HIV medications. 
+
+
+
+      Treat GI
+
+      issues like upset stomach, diarrhoea, and flatulence using cinnamon bark
+
+      powder. It works to boost appetite, treat gastrointestinal diseases,
+      parasitic
+
+      worms, menstrual cramps, and the common cold and flu. It also mitigates
+
+      fat-rich dietary impacts. It aids weight loss but is not failsafe.
+
+
+      <div style="text-align: center">##### [BUY HERE – ORDER
+      NOW](https://www.wellbiotricks.com/order-belly-balance-au)</div>
+
     badge:
       label: ''
       color: text-primary
