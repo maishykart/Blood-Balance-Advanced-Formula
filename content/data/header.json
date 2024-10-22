@@ -74,15 +74,6 @@
     "secondaryLinks": [
         {
             "label": "",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
