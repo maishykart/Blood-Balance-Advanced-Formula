@@ -29,15 +29,6 @@ sections:
       product's features and determine its success. We'll see if this vitamin
       can make your blood healthy as stated.
     actions:
-      - label: BUY HERE
-        altText: ''
-        url: 'https://www.wellbiotricks.com/order-belly-balance-au'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: ''
         altText: ''
         url: /
@@ -47,6 +38,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - label: BUY HERE
+        altText: ''
+        url: 'https://www.wellbiotricks.com/order-belly-balance-au'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
