@@ -6,7 +6,7 @@ sections:
     title:
       text: |-
         Advanced Blood Balance
-        Ingredients
+        Formula
       color: text-dark
       type: TitleBlock
     subtitle: ''
