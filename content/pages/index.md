@@ -29,7 +29,7 @@ sections:
       product's features and determine its success. We'll see if this vitamin
       can make your blood healthy as stated.
     actions:
-      - label: Get started
+      - label: Buy HERE
         altText: ''
         url: /
         showIcon: false
